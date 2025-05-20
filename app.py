@@ -58,4 +58,4 @@ def upload_file():
 if __name__ == '__main__':
  #   public_url = ngrok.connect(5000)
  #   print("Public URL:", public_url.public_url)
-    app.run(port=5000, debug=True)
+    app.run()
